@@ -1,0 +1,7 @@
+**/assets
+assets
+**/scripts
+scripts
+.vscode
+node_modules
+**/node_modules
